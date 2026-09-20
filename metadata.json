@@ -1,0 +1,6 @@
+{
+  "name": "ChillDrink - Cold Drinks & Sodas",
+  "description": "Ice-cold sodas, refreshing fruit chillers, desi masala fizz, and DIY cold drink maker with express chilled delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
